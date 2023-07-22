@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya Ahire</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahireriya&label=Profile%20views&color=0e75b6&style=flat" alt="ahireriya" /> </p>
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **HTML and javascript**
+  
 
 - 📫 How to reach me **riyasahire@gmail.com**
 
